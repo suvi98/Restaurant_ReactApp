@@ -1,0 +1,56 @@
+ [
+    {
+       "id":1,
+        "email":"bhoisuvarna@gmail.com",
+        "pass":"Hshdsjkdh@3341#",
+        "phone":"9744657456",
+        "address":200
+        
+    },
+    {
+        "id":2,
+        "email":"nish@gmail.com",
+        "pass":"Hshdsjkdh@3341#",
+        "phone":"9744657456",
+        "address":200
+        
+        
+    },
+    {
+        "id":3,
+        "email":"aarav@gmail.com",
+        "pass":"Hshdsjkdh@3341#",
+        "phone":"9744657456",
+        "address":200
+        
+        
+    }, 
+    {
+        "id":4,
+        "email":"yuvansh@gmail.com",
+        "pass":"Hshdsjkdh@3341#",
+        "phone":"9744657456",
+        "address":200
+        
+         
+     },
+     {
+        "id":5,
+        "email":"aarti@gmail.com",
+        "pass":"Hshdsjkdh@3341#",
+        "phone":"9744657456",
+        "address":200
+        
+         
+     },
+     {
+        "id":6,
+        "email":"rudru@gmailcom",
+        "pass":"Hshdsjkdh@3341#",
+        "phone":"9744657456",
+        "address":200
+        
+     }
+
+
+    ]

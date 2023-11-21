@@ -1,0 +1,43 @@
+.cart-item {
+    margin: 30px auto;
+    width: 50%;
+    background-color: orange;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.login-caontainer{
+    width: 35%;
+    border: 1px solid black;
+    border-radius: 13px;
+    background-color: #222233;
+    opacity: 0.9;
+    color: whitesmoke;
+}
+.container1{
+    width: 35%;
+    border-radius: 13px;
+}
+
+.login-page{
+    
+    display: -webkit-box;
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/b5aa5a110142211.5fe4b6386999e.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+}
+
+.heading{
+    font-weight: bold;
+}
+
+.container1 img{
+    width: 50vw;
+    height: 630px;
+}
+h6{
+    cursor: pointer;
+}
+

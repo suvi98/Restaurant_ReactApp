@@ -1,0 +1,16 @@
+.login-here
+{
+    text-align: end;
+   cursor: pointer;
+    bottom: 7%;
+    position: sticky;
+}
+.admin{
+    
+    display: -webkit-box;
+    background-image: url("https://tse2.mm.bing.net/th/id/OIP.uBmwdQ1iqu0dt4VS9KqxKwHaIz?pid=ImgDet&rs=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+    background-size: 90% 90%;
+}

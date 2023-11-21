@@ -1,0 +1,16 @@
+.login-here
+{
+    text-align: end;
+   cursor: pointer;
+    bottom: 7%;
+    position: sticky;
+}
+.register-page{
+    
+    display: -webkit-box;
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/b5aa5a110142211.5fe4b6386999e.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+}
